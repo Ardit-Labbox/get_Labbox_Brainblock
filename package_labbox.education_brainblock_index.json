@@ -5,7 +5,6 @@
         "maintainer": "Ardit Haxhikadrija",
         "websiteURL": "https://github.com/Ardit-Labbox/brainblock/tree/master/Arduino",
         "email": "ardit@labbox.education",
-        "help": "https://github.com/Ardit-Labbox/brainblock/tree/master/Arduino",
         "platforms": [
           {
             "name": "Brainblock",
