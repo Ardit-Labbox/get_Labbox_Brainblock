@@ -5,16 +5,15 @@
         "maintainer": "Ardit Haxhikadrija",
         "websiteURL": "https://github.com/Ardit-Labbox/brainblock/tree/master/Arduino",
         "email": "ardit@labbox.education",
-        "category": "Contributed",
         "help": {
           "online": "https://github.com/Ardit-Labbox/brainblock/tree/master/Arduino"
         },
         "platforms": [
           {
             "name": "Brainblock",
-            "architecture": "arm",
+            "architecture": "samd",
             "version": "1.0.0",
-            "category": "Contributed",
+            "category": "Arduino",
             "help": {
               "online": "https://github.com/Ardit-Labbox/brainblock/tree/master/Arduino"
             },
