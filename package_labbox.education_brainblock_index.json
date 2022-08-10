@@ -21,7 +21,7 @@
             "archiveFileName": "brainblock-master.zip",
             "checksum": "SHA-256:9936C0ED09A374A797D26BD8711355CFC22046EE536DDDA12C2FDCEC993AA23A",
             "size": "8717",
-            "boards": [{ "name": "Labbox BrainBlock" }],
+            "boards": [{ "name": "Labbox BrainBlock" }, { "name": "Labbox BrainBlock Pro" }],
             "toolsDependencies": [
               {
                 "packager": "arduino",
