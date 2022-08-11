@@ -11,7 +11,7 @@
         "platforms": [
           {
             "name": "Brainblock",
-            "architecture": "samd",
+            "architecture": "arm",
             "version": "1.0.0",
             "category": "Arduino",
             "help": {
